@@ -12,7 +12,7 @@ namespace KioskTest.UI
         private static string[] AnswerSetSchool = { "초등학교", "중학교", "고등학교", "대학교" };
         private static string[] AnswerSetAddress = { "서울시", "수원시", "인천시", "화성시", "부천시", "분당", "송도", "기타" };
         private static string[] AnswerSetYesNo = { "있다", "없다" };
-        private static string[] AnswerSetATM = { "계좌조회", "현금인출", "송금이체", "지로공과금" };
+        private static string[] AnswerSetATM = { "예금인출","조회","계좌이체","입금","통장정리","무통장거래","휴대폰거래","신용카드","지로공과금","전자통장","분실신고","ENGLISH","캐시비","화면확대","부가서비스","다른업무"};
         private static string[] AnswerSetBank = { "국민은행", "기업은행", "신한은행", "하나은행", "우리은행", "외환은행", "농협", "새마을금고" };
 
         public ExperimentState[] States =
