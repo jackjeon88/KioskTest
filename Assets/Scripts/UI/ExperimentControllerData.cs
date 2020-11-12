@@ -38,6 +38,7 @@ namespace KioskTest.UI
             new ExperimentState("실험종료",
                 "수고하셨습니다", ExperimentContentType.None,
                 "", new string[0], 1, 1),
+            //d
         };
     }
 }
